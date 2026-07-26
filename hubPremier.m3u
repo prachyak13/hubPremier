@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/hubPremier.png",HubPremier1
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/hubPremier.png",HubPremier1
 https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/hubPremier.png",HubPremier2
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/hubPremier.png",HubPremier2
 https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/hubPremier.png",HubPremier3
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/hubPremier.png",HubPremier3
 https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/hubPremier.png",HubPremier4
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/hubPremier.png",HubPremier4
 https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/hubPremier.png",HubPremier5
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/hubPremier.png",HubPremier5
 https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/hubPremier.png",HubPremier6
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/hubPremier.png",HubPremier6
 https://raw.githubusercontent.com/prachyak13/hubPremier/refs/heads/main/6.m3u8
